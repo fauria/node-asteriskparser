@@ -1,8 +1,8 @@
 # Node .ini parser
 
-Simple .ini parser for node, supports sections
+Simple Asterisk .conf files parser for NodeJS
 
-To parse a .ini file async:
+To parse a .conf file async:
 <pre>
 var iniparser = require('iniparser');
 iniparser.parse('./config.ini', function(err,data){
