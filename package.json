@@ -1,6 +1,6 @@
 {
 	"name": "asteriskparser",
-	"version": "0.9",
+	"version": "0.9.0",
 	"description": "asterisk .conf files parser",
 	"author": "Fernando Alvarez-Uria <fauria@gmail.com>",
 	"main": "./lib/node-asteriskparser",
