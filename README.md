@@ -1,4 +1,4 @@
-# Node .ini parser
+# Asterisk .conf parser
 
 Simple Asterisk .conf files parser for NodeJS
 
